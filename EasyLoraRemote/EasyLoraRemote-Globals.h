@@ -45,7 +45,7 @@
 #define DISABLE_USART           false // disable serial
 #define DISABLE_I2C             true  // disable I2C
 // END OF SLEEP OPTIONS
-#define WAIT_SERIAL_AT_STARTUP  fakse  // set to false to let the sketch to run independent!! set to true if you want to see serial comm beginning
+#define WAIT_SERIAL_AT_STARTUP  false  // set to false to let the sketch to run independent!! set to true if you want to see serial comm beginning
 
 #define DEVICES_MAX                3
 #define TASKS_MAX                  2
