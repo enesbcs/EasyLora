@@ -1,5 +1,3 @@
-Be a patron at [Patreon](https://www.patreon.com/enesbcs)
-
 # EasyLora sample sketches
 Experimental LoRa sensor/remote sketch for BSFrance LoRa32u4 hardware
 
